@@ -1,2 +1,6 @@
 ﻿git 第一步
-create a new branch is quick.
+<<<<<<< HEAD
+create a new branch "feature1".
+=======
+create a new branch "feature1".
+>>>>>>> feature1
